@@ -288,9 +288,8 @@ chainsight-mcp/
 
 ## 👥 Team Members
 
-- **[Your Name]** — Lead Developer / AI Agent Architecture / MCP Integration
-- **[Your Name]** — UI / Onchain Data / Hackathon Strategy
-
+- Subikshan Raj — Lead Developer / AI Agent Architecture / MCP Integration
+               
 ---
 
 ## 🌍 Project Positioning in X Layer Ecosystem
