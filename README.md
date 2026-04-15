@@ -311,7 +311,6 @@ ChainSight lowers the barrier to entry for X Layer DeFi by translating complex o
 | **Technical Implementation** | 3 MCP tools, real subgraph integration, mock/live mode, full test suite, clean layered architecture |
 | **Innovation & Creativity** | First "insight-as-a-service" MCP skill for X Layer; beginner-first UX design; multi-tool chaining demo |
 | **Ecosystem Impact** | Lowers DeFi entry barrier; reusable by any agent; promotes X Layer adoption |
-| **Presentation & Documentation** | Streamlit demo UI, 60s video script, architecture diagrams, 50+ tests, complete README |
 
 
 ## 📄 License
