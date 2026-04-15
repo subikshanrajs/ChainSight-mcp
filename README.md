@@ -313,13 +313,6 @@ ChainSight lowers the barrier to entry for X Layer DeFi by translating complex o
 | **Ecosystem Impact** | Lowers DeFi entry barrier; reusable by any agent; promotes X Layer adoption |
 | **Presentation & Documentation** | Streamlit demo UI, 60s video script, architecture diagrams, 50+ tests, complete README |
 
-### Special Prize Targets
-- 🥇 **Best Data Analyst** — Converts complex on-chain data into simple, actionable insights
-- 🥇 **Best MCP Integration** — Standard-compliant, reusable skill any agent can install
-- 🥇 **Most Innovative** — Insight-as-a-service pattern; first beginner-friendly DeFi MCP skill
-- 🥇 **Most Popular** — Easy to demo, share, and love on social media
-
----
 
 ## 📄 License
 
